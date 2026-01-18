@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *LAB 0*
 
-Submitted by: **Your Name Here**
+Submitted by: **John Rohrer**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**LAB 0** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -16,14 +16,16 @@ The following **required** functionality is completed:
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+ 
+* [ ]  Changed the websites colors to be more appealing
+* [ ]  added other interactive effects
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![2026-01-1813-52-30-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6eda07c4-29eb-4719-a268-ed5ad7a3c460)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +36,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It took me a while to get used to coding with vscode, but after a couple of hours it was pretty easy.
 
 ## License
 
