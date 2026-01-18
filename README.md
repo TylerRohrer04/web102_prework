@@ -40,7 +40,7 @@ It took me a while to get used to coding with vscode, but after a couple of hour
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [John Tyler Rohrer]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
