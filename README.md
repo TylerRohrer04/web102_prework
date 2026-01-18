@@ -1,6 +1,6 @@
 # WEB102 Prework - *LAB 0*
 
-Submitted by: **John Rohrer**
+Submitted by: **John Tyler Rohrer**
 
 **LAB 0** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
